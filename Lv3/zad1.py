@@ -30,4 +30,3 @@ mtcars['wtKg']= (mtcars.wt*1000)*0.453592
 print(mtcars[['car','wtKg']])
 
 
-print(mtcars.iloc[[1,29], :])
