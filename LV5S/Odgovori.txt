@@ -1,0 +1,11 @@
+1. a) Povećanjem temperature i CO2 povećava se i zauzetost prostorije(Ljudi izdisu CO2).
+	A pri manjim temperaturama i malim količinama CO2 program očitava da je slobodan prostor
+b)10129 podatkovnih primjera.
+C)logistička razdioba
+
+2. e) rezultat je najtočniji kod 8 susjeda te se stabilizira sa većim brojem, dok je najmanja točnost sa malo susjeda.
+   f) točnost se smanji sa 0.9546 na 0.9324
+
+3. a) +
+   b) povećava se broj stabala i rasclanjivanja u stablu
+   c) U ovom slućaju poveća se skaliranje
